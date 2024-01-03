@@ -1,8 +1,5 @@
 ### Hi there, Welcome to my portfolio 👋
 
-<!--
-**pantakanch/pantakanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎯 About me:
 - My name is Pantakan Kangided. I graduated with a degree in Business Administration from Thai-Nichi Institute of Technology.
 - I'm currently learning data analysis and actively seeking job opportunities.
