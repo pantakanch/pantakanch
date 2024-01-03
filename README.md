@@ -12,4 +12,10 @@
 - Data Visualization (Power BI, Tableau, Looker Studio)
 
 📚 Personal Projects:
-- [Cyclistic Google Data Analytics Capstone Project](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic)
+- [Cyclistic Google Data Analytics Capstone Project](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic) (Excel + SQL + R + Power BI)
+- [Free Fire vs. PUBG Facebook Page Analytics Dashboard](https://docs.google.com/spreadsheets/d/1_dA50fkJpRbdFygU8ExY1YeVSeaQXdXAUIyalINyjng/edit#gid=1535441902) (Google Sheets)
+- [Airbnb New York City 2019 Dashboard](https://public.tableau.com/app/profile/pantakan4372/viz/AirbnbNYC2019Dashboard_17016832550350/Dashboard) (Tableau)
+- [Google Trends Dashboard for Smartphone](https://github.com/pantakanch/Google-Trends-Dashboard-for-Smartphone) (R + Looker Studio)
+- [Restaurant Database](https://github.com/pantakanch/Restaurant-Database) (SQL)
+- [Customer Segmentation](https://github.com/pantakanch/Customer-Segmentation-using-K-Means-Clustering) (Python)
+- [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/aqRCV2wNQVSgKB7xA6n9Kh/YWeZHPOzM6OyZp5PFnrsEN/) (Python)
