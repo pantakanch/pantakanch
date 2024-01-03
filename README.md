@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, Welcome to my portfolio 👋
 
 <!--
 **pantakanch/pantakanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎯 About me:
+- My name is Pantakan Kangided. I graduated with a degree in Business Administration from Thai-Nichi Institute of Technology.
+- I'm currently learning data analysis and actively seeking job opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills:
+- Microsoft Excel / Google Sheets (Query, VLOOKUP, Pivot)
+- SQL (Subqueries, Window functions)
+- R (dplyr, ggplot2, sqldf)
+- Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- Data Visualization (Power BI, Tableau, Looker Studio)
+
+📚 Personal Projects:
+- [Cyclistic Google Data Analytics Capstone Project](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic)
