@@ -1,4 +1,4 @@
-### Hi there, Welcome to my GitHub profile. 👋
+# Hi there, Welcome to my GitHub profile. 👋
 
 🎯 About me:
 - My name is Pantakan Kangided. I graduated with a degree in Business Administration from Thai-Nichi Institute of Technology.
