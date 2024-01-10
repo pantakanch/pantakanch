@@ -12,7 +12,7 @@
 - Data Visualization: Power BI, Tableau, Looker Studio
 
 📚 Personal Projects:
-- [Cyclistic Google Data Analytics Capstone Project](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic) (Excel + SQL + R + Power BI)
+- [Google Data Analytics Capstone Project: Cyclistic](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic) (Excel + SQL + R + Power BI)
 - [Free Fire vs. PUBG Facebook Page Analytics Dashboard](https://docs.google.com/spreadsheets/d/1_dA50fkJpRbdFygU8ExY1YeVSeaQXdXAUIyalINyjng/edit#gid=1535441902) (Google Sheets)
 - [IBM HR Analytics Dashboard](https://github.com/pantakanch/IBM-HR-Analytics-Dashboard) (Power BI)
 - [Airbnb New York City 2019 Dashboard](https://public.tableau.com/app/profile/pantakan4372/viz/AirbnbNYC2019Dashboard_17016832550350/Dashboard) (Tableau)
