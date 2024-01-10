@@ -1,15 +1,15 @@
 # Hi there, Welcome to my GitHub profile. 👋
 
 🎯 About me:
-- My name is Pantakan Kangided. I graduated with a degree in Business Administration from Thai-Nichi Institute of Technology.
-- I'm currently learning data analysis and actively seeking job opportunities.
+- My name is Pantakan Kangided. I hold a Bachelor's degree in Business Administration from Thai-Nichi Institute of Technology.
+- Actively learning data analysis and pursuing job opportunities.
 
 💡 Skills:
-- Microsoft Excel / Google Sheets (Query, VLOOKUP, Pivot)
-- SQL (Subqueries, Window functions)
-- R (dplyr, ggplot2, sqldf)
-- Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
-- Data Visualization (Power BI, Tableau, Looker Studio)
+- Microsoft Excel / Google Sheets: Query, VLookup, Pivot table
+- SQL: Subqueries, Window functions
+- R: dplyr, ggplot2, sqldf
+- Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Data Visualization: Power BI, Tableau, Looker Studio
 
 📚 Personal Projects:
 - [Cyclistic Google Data Analytics Capstone Project](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic) (Excel + SQL + R + Power BI)
@@ -19,6 +19,12 @@
 - [Google Trends Dashboard for Smartphone](https://github.com/pantakanch/Google-Trends-Dashboard-for-Smartphone) (R + Looker Studio)
 - [Restaurant Database](https://github.com/pantakanch/Restaurant-Database) (SQL)
 - [Google Play Store Apps Analysis](https://github.com/pantakanch/Google-Play-Store-Apps-SQL-Data-Analysis) (SQL)
-- [Web Scraping - IMDB Top 250](https://datalore.jetbrains.com/notebook/aqRCV2wNQVSgKB7xA6n9Kh/I0d1OsXu0DYR4TZfqy0F5f/) (R)
+- [Web Scraping - IMDB Top 250](https://github.com/pantakanch/Web-Scraping-IMDB-Top-250) (R)
 - [Customer Segmentation](https://github.com/pantakanch/Customer-Segmentation-using-K-Means-Clustering) (Python)
-- [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/aqRCV2wNQVSgKB7xA6n9Kh/YWeZHPOzM6OyZp5PFnrsEN/) (Python)
+- [Analyzing Sales Data](https://github.com/pantakanch/Analyzing-Sales-Data) (Python)
+
+📅 Last Updated: January 10, 2024
+
+📧 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pantakan-kangided/) for collaboration or job opportunities.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pantakanch&show_icons=true&hide=contribs)](https://github.com/pantakanch)
