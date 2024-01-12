@@ -19,6 +19,7 @@
 - [Google Trends Dashboard for Smartphone](https://github.com/pantakanch/Google-Trends-Dashboard-for-Smartphone) (R + Looker Studio)
 - [Burger Restaurant Database](https://github.com/pantakanch/Restaurant-Database) (SQL)
 - [Google Play Store Apps Analysis](https://github.com/pantakanch/Google-Play-Store-Apps-SQL-Data-Analysis) (SQL)
+- [Mercedes-Benz Price Prediction](https://github.com/pantakanch/Mercedes-Benz-Price-Prediction) (R)
 - [Web Scraping - IMDB Top 250](https://github.com/pantakanch/Web-Scraping-IMDB-Top-250) (R)
 - [Customer Segmentation](https://github.com/pantakanch/Customer-Segmentation-using-K-Means-Clustering) (Python)
 - [Analyzing Sales Data](https://github.com/pantakanch/Analyzing-Sales-Data) (Python)
