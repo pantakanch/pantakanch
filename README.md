@@ -24,7 +24,7 @@
 - [Customer Segmentation](https://github.com/pantakanch/Customer-Segmentation-using-K-Means-Clustering) (Python)
 - [Analyzing Sales Data](https://github.com/pantakanch/Analyzing-Sales-Data) (Python)
 
-📅 Last Updated: January 31, 2024
+📅 Last Updated: Febuary 5, 2024
 
 📧 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pantakan-kangided/) for collaboration or job opportunities.
 
